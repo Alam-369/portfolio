@@ -4,7 +4,7 @@ export const personal = {
   subtitle: "Full Stack / Backend Engineer",
   location: "Dhaka, Bangladesh",
   email: "tasnimalam064@gmail.com",
-  phone: "+880 1756 974047",
+  phone: "+880 1617 772649",
   linkedin: "https://linkedin.com",
   summary:
     "Senior .NET Developer with 4+ years building scalable, high-performance web systems using .NET Core, ASP.NET, and microservice architectures. Proven track record migrating legacy platforms to modern .NET, designing asynchronous messaging microservices, and delivering backend APIs for enterprise applications serving millions of users. Strong in C#, SQL, and backend engineering, with frontend proficiency in jQuery and React. Promoted twice to Senior Software Engineer (L3) with yearly advancement.",
