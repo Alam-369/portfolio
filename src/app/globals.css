@@ -18,8 +18,8 @@
   --color-muted: var(--muted);
   --color-border: var(--border);
   --color-surface: var(--surface);
-  --font-sans: "Geist", sans-serif;
-  --font-mono: "Geist Mono", monospace;
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
 }
 
 body {
